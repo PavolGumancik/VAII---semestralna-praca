@@ -1,11 +1,13 @@
 .header {
     background-color: #059605;
+    padding: 10px;
+    text-align: center;
 }
 
 .header img {
     float: left;
     width: 100px;
-    height: 100px;
+    height:100px;
     background-color: transparent;
 }
 

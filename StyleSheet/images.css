@@ -6,3 +6,10 @@
     border-radius: 7px;
     text-align: center;
 }
+
+.udalost1 {
+    width: auto;
+    height: auto;
+    max-width: 30px;
+    max-height: 30px;
+}
